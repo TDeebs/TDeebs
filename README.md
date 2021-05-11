@@ -2,7 +2,7 @@
 - 👀 I’m interested in work
 - 🌱 I’m currently learning React for my portfolio website
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me: dbn.tanner@gmail.com
+- 📫 dbn.tanner@gmail.com
 
 <!---
 TDeebs/TDeebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
