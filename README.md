@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Tanner Debien
-- 👀 I’m interested in work
-- 🌱 I’m currently learning React for my portfolio website
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 dbn.tanner@gmail.com
+- 👀 I’m interested in Mac development
+- 🌱 I’m currently working at TechSmith Corporation.
 
 <!---
 TDeebs/TDeebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
