@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanner Debien
-- 👀 I’m interested in Mac development
+- 👀 I’m interested in Cross-platform development
 - 🌱 I’m currently working at TechSmith Corporation.
 
 <!---
